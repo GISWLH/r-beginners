@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![r-beginners — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # R Programming for Absolute Beginners 👨‍🎓👩‍🎓
 
 R is a programming language and software environment widely used for statistical computing and data analysis.  R provides a wide variety of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, clustering, and more.
@@ -77,5 +81,6 @@ After selecting, you can run this code in two ways - either by using the Run but
 
 ![Tutorial3](assets/Tutorial4.PNG)
 
-
-
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
